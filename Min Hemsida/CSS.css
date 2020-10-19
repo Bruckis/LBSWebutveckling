@@ -6,13 +6,21 @@ border-radius: 5px;
 header{
 margin: 0;
 padding: 5px 5px 5px 20px;
+height: 100%;
+width: 100%;
 background-color: rgb(0, 145, 145);
 }
 nav{
-margin: 5px 0 5px 0;
+margin: 1% 0 1% 0;
 padding: 5px;
-border: 2px solid rgb(1, 168, 168);
+border: 2px solid #444554;
 border-radius: 5px;
+color: #E5D0CC;
+}
+.navheader{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 nav ul{
 display: inline;
@@ -26,22 +34,25 @@ main, section{
 margin: 0;
 padding: 0;
 }
+.box{
+  width: 100%
+  display: inline-block;
+  padding: 5px 10px 5px 20px;
+  background-color: #ffffff;
+}
 .aboutme{
     width: 60%;
     float:right;
-margin: 0px 0 0 0;
 padding: 5px 10px 5px 20px;
-background-color: rgb(1, 179, 179);
-
+background-color: #BFACB5;
+border-radius: 20px;
 }
 .experience{
     width: 40%;
     float:left;
-margin: 0px 0 0 0;
 padding: 5px 10px 5px 20px;
-background-color: rgb(1, 179, 179);
-
-
+background-color: #7F7B82;
+border-radius: 20px;
 }
 .picture{
     position: relative;
@@ -55,12 +66,23 @@ width:95%;
 margin: 0px auto 0px auto;
 padding: 10px;
 border: 1px solid #ccc;
-border-radius: 20px;
+border-radius: 1%;
 box-shadow: 0px 0px 10px rgba(204, 204, 204, 1);
+background-color: #172121;
 }
 
 body {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 20px;
+font-size: 1.7vw;
+background-color: #172121;
+width: 100%;
+}
+.links_nav{
+  font-weight: bold;
+  text-decoration: none;
+  text-shadow: 0 0 1px #FFFFFF, 0 0 1px #FFFFFF, 0 0 1px #FFFFFF, 0 0 1px #FFFFFF;
+}
+a.links_nav:hover{
+  color: #BFACB5;
 }
 -->
