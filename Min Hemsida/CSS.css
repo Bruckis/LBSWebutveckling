@@ -1,0 +1,66 @@
+
+    <!--
+    header, section, footer, aside, nav, main, article {
+border-radius: 5px;
+}
+header{
+margin: 0;
+padding: 5px 5px 5px 20px;
+background-color: rgb(0, 145, 145);
+}
+nav{
+margin: 5px 0 5px 0;
+padding: 5px;
+border: 2px solid rgb(1, 168, 168);
+border-radius: 5px;
+}
+nav ul{
+display: inline;
+margin: 15%;
+}
+nav ul li{
+display: inline;
+margin: 10%;
+}
+main, section{
+margin: 0;
+padding: 0;
+}
+.aboutme{
+    width: 60%;
+    float:right;
+margin: 0px 0 0 0;
+padding: 5px 10px 5px 20px;
+background-color: rgb(1, 179, 179);
+
+}
+.experience{
+    width: 40%;
+    float:left;
+margin: 0px 0 0 0;
+padding: 5px 10px 5px 20px;
+background-color: rgb(1, 179, 179);
+
+
+}
+.picture{
+    position: relative;
+
+}
+.picture2{
+    float:right;
+}
+#wrapper{
+width:95%;
+margin: 0px auto 0px auto;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 20px;
+box-shadow: 0px 0px 10px rgba(204, 204, 204, 1);
+}
+
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+-->
