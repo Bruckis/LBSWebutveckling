@@ -1,0 +1,5 @@
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 1\bin\Debug\Svår uppgift 1.exe.config
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 1\bin\Debug\Svår uppgift 1.exe
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 1\bin\Debug\Svår uppgift 1.pdb
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 1\obj\Debug\Svår uppgift 1.exe
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 1\obj\Debug\Svår uppgift 1.pdb

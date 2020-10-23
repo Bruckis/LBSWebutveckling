@@ -1,0 +1,6 @@
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\bin\Debug\Svår uppgift 2.exe.config
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\bin\Debug\Svår uppgift 2.exe
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\bin\Debug\Svår uppgift 2.pdb
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\obj\Debug\Svår uppgift 2.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\obj\Debug\Svår uppgift 2.exe
+C:\Users\noahb\source\repos\Repetitionsuppgifter\Svår uppgift 2\obj\Debug\Svår uppgift 2.pdb
